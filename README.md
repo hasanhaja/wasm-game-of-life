@@ -17,6 +17,8 @@
   <sub>Built with 🦀🕸 by <a href="https://rustwasm.github.io/">The Rust and WebAssembly Working Group</a></sub>
 </div>
 
+## Todo
+- [] Add color (use 3 fixed bit sets for the 3 channels)
 ## About
 
 [**📚 Read this template tutorial! 📚**][template-docs]
